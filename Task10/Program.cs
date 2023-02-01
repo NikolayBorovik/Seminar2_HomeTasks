@@ -6,7 +6,7 @@
 
 Console.Clear();
 
-System.Console.WriteLine("Enter your 1st number: ");
+System.Console.WriteLine("Enter your number: ");
 string? strNumber = Console.ReadLine();
 int numberN = int.Parse(strNumber);
 
